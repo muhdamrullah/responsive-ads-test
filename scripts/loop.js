@@ -2,10 +2,9 @@ $(function(){
 
 var picCount=0;  
 var picArray= [
-   'https://media.giphy.com/media/l4hLy5WvoC7mA6vPq/giphy.gif',
-   'https://media.giphy.com/media/26CYzLeA6jmwetE9W/giphy.gif',
-   'https://media.giphy.com/media/3o85fVTFUtaFUhB1Ze/giphy.gif',
-   "http://i.giphy.com/xT1XGUd5IT0dwQLJKw.gif",
+   'http://i.imgur.com/XC0nAIJ.jpg',
+   'http://i.imgur.com/NQXdS6S.jpg',
+   'http://i.imgur.com/7Yr2sIa.jpg'
 ];
 nextPic();
 
